@@ -1,4 +1,4 @@
-(defproject delaunay-triangulation "1.0.0"
+(defproject trystan/delaunay-triangulation "1.0.0"
   :description "Create a delaunay triangulation from a collection of points."
   :url "https://github.com/trystan/delaunay-triangulation"
   :license {:name "Eclipse Public License"
