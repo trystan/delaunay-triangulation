@@ -4,7 +4,7 @@ Get a delaunay triangulation for a given collection of points.
 
 ## Leiningen
 
-[trystan/delaunay-triangulation "1.0.0"]
+[trystan/delaunay-triangulation "1.0.1"]
 
 ## Usage
 
